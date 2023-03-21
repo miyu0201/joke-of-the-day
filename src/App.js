@@ -7,18 +7,18 @@ export default function App() {
    const [jokes, setJokes] = useState([
       {
          id: 1,
-         text: "I'm afraid for the calendar. Its days are numbered.",
-         likes: 0
+         text: "Why do we tell actors to 'break a leg'? Because every play has a cast.",
+         likes: 5
       },
       {
          id: 2,
-         text: "I used to be addicted to soap, but I'm clean now.",
-         likes: 0
+         text: "What’s a cat’s favorite dessert? A bowl full of mice-cream.",
+         likes: 4
       },
       {
          id: 3,
          text: "Did you hear about the guy whose left side was cut off? He's all right now.",
-         likes: 0
+         likes: 9
       }
    ]);
 
